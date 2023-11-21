@@ -14,7 +14,7 @@ palettes or any random colors.
 other package managers or CDNs like `UNPKG`. For `Deno` reference see
 [module page], or use CDN like `esm.sh`.
 
-[NPM page]: https://www.npmjs.com/package/@chalkpot/random_colors
+[NPM page]: https://www.npmjs.com/package/@chalkpot/random-colors
 [module page]: https://deno.land/x/chalkpot_random_colors
 
 ## Related
