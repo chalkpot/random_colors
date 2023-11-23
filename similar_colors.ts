@@ -20,7 +20,7 @@ export const MIN_ITERATIONS = 2;
  *
  * ```ts
  * const someBlueColors = similarColors([0, 0, 255], { count: 2, deviation: 20 });
- * console.log(someBlueColors); // [[ 6.87..., 0, 252.68...], [ 0, 7.53..., 255 ]]
+ * console.log(someBlueColors); // [[6.87..., 0, 252.68...], [0, 7.53..., 255]]
  * ```
  *
  * @param color
